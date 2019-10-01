@@ -1,0 +1,97 @@
+ORI_HASH 2295099192
+
+LINES_INSERT 62 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 76 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 90 [
+			aspectCorrect ITEM_ALIGN_CENTER
+]
+
+LINES_REPLACE 101 [ //fixes the saber halos being darker - was this intentional??
+			forecolor			0.7 0.7 0.7 1
+]
+
+LINES_INSERT 103 [
+			aspectCorrect -1
+]
+
+LINES_REPLACE 114 [ //fixes the saber halos being darker - was this intentional??
+			forecolor			0.7 0.7 0.7 1
+]
+
+LINES_INSERT 116 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 132 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 148 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 161 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 173 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 549 [ //fix mouseover highlighting on the stationary & personal shield buttons
+		itemDef 
+		{
+			group				mainhighlight
+			name				mainhighlight5
+			style				WINDOW_STYLE_SHADER
+			rect				120 293 170 30
+			background			"gfx/menus/menu_blendbox2"			// Frame around button
+			forecolor			1 1 1 1
+			visible				0
+			decoration
+		}
+
+		itemDef 
+		{
+			group				mainhighlight
+			name				mainhighlight6
+			style				WINDOW_STYLE_SHADER
+			rect				120 323 170 30
+			background			"gfx/menus/menu_blendbox2"			// Frame around button
+			forecolor			1 1 1 1
+			visible				0
+			decoration
+		}
+]
+
+LINES_INSERT 803 [ //fixes item icons
+			aspectCorrect -1
+]
+
+LINES_INSERT 834 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 865 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 896 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 927 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 958 [
+			aspectCorrect -1
+]
+
+

@@ -1,5 +1,41 @@
 ORI_HASH 3084045269
 
+LINES_INSERT 85 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 99 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 113 [
+			aspectCorrect ITEM_ALIGN_CENTER
+]
+
+LINES_INSERT 126 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 139 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 155 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 171 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 184 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 196 [
+			aspectCorrect -1
+]
+
 LINES_DELETE 3255 3258
 
 LINES_DELETE 3262 3265

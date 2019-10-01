@@ -8,6 +8,42 @@ LINES_INSERT 38 [
 			hide			downloads ;
 ]
 
+LINES_INSERT 80 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 93 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 106 [
+			aspectCorrect ITEM_ALIGN_CENTER
+]
+
+LINES_INSERT 118 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 130 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 145 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 160 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 172 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 183 [
+			aspectCorrect -1
+]
+
 LINES_REPLACE 527 [
 			rect				120 173 170 24
 ]
@@ -835,7 +871,7 @@ LINES_INSERT 2498 [
 				English   english
 				Francais  francais
 				Deutsch   deutsch
-				"Español"   espanol
+				"Espaï¿½ol"   espanol
 ]
 
 LINES_DELETE 2514 2549

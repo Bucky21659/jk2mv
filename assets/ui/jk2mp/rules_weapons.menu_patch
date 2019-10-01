@@ -1,0 +1,103 @@
+ORI_HASH 4215321537
+
+LINES_INSERT 62 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 76 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 90 [
+			aspectCorrect ITEM_ALIGN_CENTER
+]
+
+LINES_REPLACE 101 [ //fixes the saber halos being darker - was this intentional??
+			forecolor			0.7 0.7 0.7 1
+]
+
+LINES_INSERT 103 [
+			aspectCorrect -1
+]
+
+LINES_REPLACE 114 [ //fixes the saber halos being darker - was this intentional??
+			forecolor			0.7 0.7 0.7 1
+]
+
+LINES_INSERT 116 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 132 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 148 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 161 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 173 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 758 [ //fix icons ?
+			aspectCorrect -1 //ITEM_ALIGN_CENTER
+]
+
+LINES_INSERT 829 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 900 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 971 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 1041 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 1112 [
+			aspectCorrect -1
+]
+
+LINES_INSERT 1184 [
+			aspectCorrect -1
+]
+
+
+LINES_INSERT 1255 [
+			aspectCorrect -1
+]
+
+
+LINES_INSERT 1326 [
+			aspectCorrect -1
+]
+
+
+LINES_INSERT 1397 [
+			aspectCorrect -1
+]
+
+
+LINES_INSERT 1468 [
+			aspectCorrect -1
+]
+
+
+LINES_INSERT 1539 [
+			aspectCorrect -1
+]
+
+
+LINES_INSERT 1610 [
+			aspectCorrect -1
+]
